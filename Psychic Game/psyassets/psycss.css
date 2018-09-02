@@ -1,0 +1,34 @@
+header{
+    text-align: center;
+    border-color: blueviolet;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: blueviolet;
+}
+body{
+    background-image: url(https://res.cloudinary.com/teepublic/image/private/s--W7NiVP45--/t_Preview/b_rgb:191919,c_limit,f_jpg,h_630,q_90,w_630/v1446838408/production/designs/322378_1.jpg);
+    background-color: aqua
+}
+.Instructo{
+    color: purple;
+    margin: 30px;
+    padding: 30px;
+}
+#LeWin{
+    background: skyblue;
+    margin: 20px;
+    padding: 10px;
+}
+#LeLose{
+    background: skyblue;
+    margin: 20px;
+    padding: 10px;
+}
+#TryTryAgain{
+    background: skyblue;
+    margin: 20px;
+    padding: 10px;
+}
+#guess{
+    color: #ebebeb;
+}
